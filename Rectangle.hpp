@@ -16,7 +16,7 @@ class Rectangle{
         _height*=scaleFactor;
     }
     private:
+    double _width{};    
     double _height{};
-    double _width{};
 };
 #endif
