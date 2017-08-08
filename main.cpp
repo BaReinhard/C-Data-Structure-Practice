@@ -1,5 +1,5 @@
-#include <iostream>;
-#include "Rectangle.hpp";
+#include <iostream>
+#include "Rectangle.hpp"
 using std::cout;
 
 void PrintInfo(const Rectangle& r){
