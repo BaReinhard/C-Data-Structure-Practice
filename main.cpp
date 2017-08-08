@@ -2,6 +2,7 @@
 #include "Rectangle.hpp"
 using std::cout;
 
+// Easy Print Info function
 void PrintInfo(const Rectangle& r){
     cout << "Rectanle width = " << r.Width()
          <<", height = " << r.Height()
